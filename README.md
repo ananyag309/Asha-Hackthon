@@ -153,8 +153,8 @@ uvicorn main:app --reload
 
 ## 📹 Demo & Links
 
-- 🔗 GitHub Repo: [Insert Link]
-- 📺 Demo Video: [Insert Link]
+- 🔗 GitHub Repo: [https://github.com/ananyag309/Asha-Hackthon]
+- 📺 Demo Video: [https://drive.google.com/file/d/1ofZnJu2Xv36dk_RuAN2P3BCC6F06f3LS/view]
 
 ---
 
