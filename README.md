@@ -147,9 +147,11 @@ Government schemes information
 Basic financial education
 
 
-
-### 📬 Contact
-For questions or support, please contact [aditijain132005@example.com].
+Team Members:
+Ananya Gupta
+Devanshi Jaiswal
+Aditi Singh
+Aditi Jain
 
 
 
