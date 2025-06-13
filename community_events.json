@@ -1,0 +1,26 @@
+[
+  {
+    "id": "event1",
+    "title": "Women in Tech Conference",
+    "organizer": "TechWomen Association",
+    "location": "Bangalore",
+    "online": true,
+    "date": "2025-05-15",
+    "time": "10:00 AM - 4:00 PM",
+    "description": "Conference focusing on career opportunities for women in technology",
+    "registration_link": "https://example.com/register/event1",
+    "is_free": true
+  },
+  {
+    "id": "event2",
+    "title": "Resume Building Workshop",
+    "organizer": "Career Forward",
+    "location": "Delhi",
+    "online": false,
+    "date": "2025-05-20",
+    "time": "2:00 PM - 5:00 PM",
+    "description": "Learn how to create an impactful resume that stands out to employers",
+    "registration_link": "https://example.com/register/event2",
+    "is_free": true
+  }
+]

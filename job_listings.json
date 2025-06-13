@@ -1,0 +1,78 @@
+[
+  {
+    "id": "job1",
+    "title": "Software Developer",
+    "company": "TechWomen Inc.",
+    "location": "Bangalore, Remote",
+    "description": "Entry-level software development position with flexible hours, ideal for women returning to work.",
+    "requirements": "Basic programming skills, willingness to learn",
+    "salary": "\u20b95,00,000 - \u20b98,00,000 per annum",
+    "apply_link": "https://example.com/apply/job1",
+    "posted_date": "2025-04-10",
+    "women_friendly_benefits": [
+      "Remote work options",
+      "Flexible hours",
+      "Maternity benefits"
+    ]
+  },
+  {
+    "id": "job2",
+    "title": "Content Writer",
+    "company": "CreativeMinds",
+    "location": "Delhi, Hybrid",
+    "description": "Content creation role with part-time options available.",
+    "requirements": "Good writing skills, creativity",
+    "salary": "\u20b94,00,000 - \u20b96,00,000 per annum",
+    "apply_link": "https://example.com/apply/job2",
+    "posted_date": "2025-04-15",
+    "women_friendly_benefits": [
+      "Part-time options",
+      "Work from home days"
+    ]
+  },
+  {
+    "id": "job3",
+    "title": "HR Assistant",
+    "company": "GrowthCorp",
+    "location": "Mumbai",
+    "description": "Entry-level HR position with training provided.",
+    "requirements": "Good communication skills, basic computer knowledge",
+    "salary": "\u20b93,50,000 - \u20b95,00,000 per annum",
+    "apply_link": "https://example.com/apply/job3",
+    "posted_date": "2025-04-18",
+    "women_friendly_benefits": [
+      "Creche facilities",
+      "Flexible timing"
+    ]
+  },
+  {
+    "id": "job4",
+    "title": "Data Entry Specialist",
+    "company": "InfoSystems",
+    "location": "Hyderabad, Remote",
+    "description": "Data entry role with flexible hours and work-from-home options.",
+    "requirements": "Fast typing, attention to detail",
+    "salary": "\u20b92,50,000 - \u20b93,50,000 per annum",
+    "apply_link": "https://example.com/apply/job4",
+    "posted_date": "2025-04-20",
+    "women_friendly_benefits": [
+      "Complete remote work",
+      "Flexible hours"
+    ]
+  },
+  {
+    "id": "job5",
+    "title": "Customer Support Representative",
+    "company": "ServiceFirst",
+    "location": "Chennai, Hybrid",
+    "description": "Customer service role with training provided.",
+    "requirements": "Good communication skills, basic English proficiency",
+    "salary": "\u20b93,00,000 - \u20b94,50,000 per annum",
+    "apply_link": "https://example.com/apply/job5",
+    "posted_date": "2025-04-22",
+    "women_friendly_benefits": [
+      "Paid training",
+      "Career advancement opportunities"
+    ]
+  }
+]
