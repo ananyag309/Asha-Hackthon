@@ -44,22 +44,41 @@ The chatbot is built with ethical AI principles, ensuring private, inclusive, an
 
 ## 🛠️ Architecture Diagram
 
-![Architecture](./assets/asha-architecture.png)
+![Architecture](assets/architecture_diagram.jpg)
+![Chatbot Architecure](assets/chatbot_architecture.jpg)
+
+## 🛠️ Process Flow
+
+![Process Flow](assets/process_flow.jpg)
+
+## 🛠️ User Case Diagram
+
+![User Case](assets/user_case_diagram.jpg)
+
+### Wireframe/Prototype
+
+![Wireframe](assets/wireframe.jpg)
+
+### Snapshots of Prototype
+
+![Prototype](assets/snapshot_of_prototype.jpg)
+![Prototype](assets/snapshot_of_prototype1.jpg)
+
 
 ---
 
-## 🔄 System Flow
+## 🔄 System Flow (Text-based)
 
-```mermaid
-graph TD
-    A[User Query] --> B{Bias Detected?}
-    B -- Yes --> C[Suggest Neutral Response]
-    B -- No --> D[Retrieve Context (RAG)]
-    D --> E[Generate LLM Response]
-    C --> F[Return to User]
-    E --> F
-    F --> G[Collect Feedback]
-```
+User submits a query  
+→ Bias Detection  
+ → If biased → Suggest neutral response  
+ → If clean → Proceed to context retrieval  
+→ Retrieve context using Vector DB (RAG)  
+→ Generate response using Gemini LLM  
+→ Return response to user  
+→ Collect user feedback  
+→ Improve model over time
+
 
 ---
 
